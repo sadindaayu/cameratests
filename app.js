@@ -1,4 +1,4 @@
-app.js
+//app.js
 
 var constraints = { video: { facingMode: "user" }, audio: false };
 
